@@ -1,1 +1,1 @@
-# lifediary-gitproject
+# python-gitproject
